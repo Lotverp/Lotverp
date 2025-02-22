@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋
-My name is Gabriel and I'm a geek, from Italy, Swizerland</h2>
+My name is Gabriel.
+I'm Italian but I live in Switzerland.
+I'm passionate about technology and love sharing my projects with the world🌍</h2>
 
 ###
 
