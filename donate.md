@@ -1,9 +1,9 @@
 # ☕ Support My Work
-If you like my projects and want to support me, you can donate using one of the options below. Every donation is greatly appreciated! 🙌
 
-**All donations will be exclusively reinvested in other open-source projects.** 💡
+**If you like my projects and want to support me, you can donate using one of the options below. Every donation is greatly appreciated!** 🙌
 
----
+## **All donations will be exclusively reinvested in other open-source projects.** 💡
+
 
 ### 💳 Donation Methods
 
@@ -36,6 +36,6 @@ If you like my projects and want to support me, you can donate using one of the 
 ---
 
 ### ❤️ Thank You!
-Your support means a lot and helps me continue creating awesome projects! 🚀
+**Your support means a lot and helps me continue creating awesome projects!** 🚀
 
 **Every contribution helps build more open-source innovations!** 💻✨
