@@ -52,3 +52,5 @@ Editor    : Visual Studio Code
 ```
 
 ![snake](https://github.com/user-attachments/assets/8398cdc4-ec41-4f11-925d-b30967674584)
+
+ <!-- Readme inspired by https://github.com/Kerlooo -->
