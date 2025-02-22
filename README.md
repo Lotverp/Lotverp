@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋
-/n My name is Gabriel.
-/n I'm Italian but I live in Switzerland.
-/n I'm passionate about technology and love sharing my projects with the world🌍</h2>
+<h2 align="left">Hi 👋</h2>
+<h2 align="left"> My name is Gabriel.</h2>
+<h2 align="left"> I'm Italian but I live in Switzerland.</h2>
+<h2 align="left"> I'm passionate about technology and love sharing my projects with the world🌍</h2>
 
 ###
 
