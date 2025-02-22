@@ -51,8 +51,4 @@ Editor    : Visual Studio Code
 
 ```
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Lotverp/Lotverp/output/snake.svg" alt="Snake animation" />
-
 ![snake](https://github.com/user-attachments/assets/8398cdc4-ec41-4f11-925d-b30967674584)
