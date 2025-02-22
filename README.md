@@ -1,7 +1,8 @@
 ## Hi 👋!
 ### My name is **Gabriel** 🚀.
-I'm **Italian** 🇮🇹 but I live in **Switzerland** 🇨🇭.
-I'm passionate about **technology** and I love to share my projects with the world 🌍✨.
+I'm **Italian** 🇮🇹 but I live in **Switzerland** 🇨🇭. <br>
+I'm passionate about **technology**💻
+<br>I love to share my projects with the world 🌍✨.
 
 ---
 
