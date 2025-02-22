@@ -45,15 +45,17 @@ Editor    : Visual Studio Code
 ![snake](https://github.com/user-attachments/assets/8398cdc4-ec41-4f11-925d-b30967674584)
 
 ---
+<div align="center">
+  <h3> Visitor Count: </h3>
+<img src="https://profile-counter.deno.dev/Lotverp/count.svg">
+</div>
 
 <div align="center">
   <a href="https://github.com/Lotverp/Lotverp/blob/main/donate.md" target="_blank">
     <img src="https://img.shields.io/badge/Buy me a coffee-%23FFDD00?style=for-the-badge&logo=ko-fi&logoColor=black" height="40" alt="donate" />
   </a>
+
 </div>
 
-## <h3> Visitor Count: </h3>
-
-<img src="https://profile-counter.deno.dev/Lotverp/count.svg">
 
 <!-- Readme inspired by https://github.com/Kerlooo -->
