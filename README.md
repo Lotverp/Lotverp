@@ -52,4 +52,8 @@ Editor    : Visual Studio Code
   </a>
 </div>
 
+## <h3> Visitor Count: </h3>
+
+<img src="https://profile-counter.deno.dev/Lotverp/count.svg">
+
 <!-- Readme inspired by https://github.com/Kerlooo -->
