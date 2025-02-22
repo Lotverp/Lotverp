@@ -48,7 +48,7 @@ Editor    : Visual Studio Code
 
 <div align="center">
   <a href="https://github.com/Lotverp/Lotverp/blob/main/donate.md" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-%23FFDD00?style=for-the-badge&logo=ko-fi&logoColor=black" height="40" alt="Buy me a coffee" />
+    <img src="https://img.shields.io/badge/Buy me a coffee-%23FFDD00?style=for-the-badge&logo=ko-fi&logoColor=black" height="40" alt="donate" />
   </a>
 </div>
 
