@@ -45,10 +45,6 @@ Editor    : Visual Studio Code
 ![snake](https://github.com/user-attachments/assets/8398cdc4-ec41-4f11-925d-b30967674584)
 
 ---
-<div align="center">
-  <h3> Visitor Count: </h3>
-<img src="https://profile-counter.deno.dev/Lotverp/count.svg">
-</div>
 
 <div align="center">
   <a href="https://github.com/Lotverp/Lotverp/blob/main/donate.md" target="_blank">
