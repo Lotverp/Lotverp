@@ -48,7 +48,7 @@ I'm passionate about technology and love sharing my projects with the world🌍<
 </div>
 
 ```lua
-OS        : Linux Mint, Windows
+OS        : Linux Mint, Windows, Android
 Languages : Python, DuckyScript
 Editor    : Visual Studio Code
 
