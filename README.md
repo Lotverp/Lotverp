@@ -1,7 +1,9 @@
-<h2 align="left">Hi 👋</h2>
-<h2 align="left"> My name is Gabriel.</h2>
-<h2 align="left"> I'm Italian but I live in Switzerland.</h2>
-<h2 align="left"> I'm passionate about technology and love sharing my projects with the world🌍</h2>
+<h2 align="left">
+  Hi 👋<br>
+  My name is <span style="color: #6C63FF; font-weight: bold;">Gabriel</span> 🚀.<br>
+  I'm <span style="color: #FF6F61; font-weight: bold;">Italian 🇮🇹</span> but I live in <span style="color: #48C9B0; font-weight: bold;">Switzerland 🇨🇭</span>.<br>
+  I'm passionate about <span style="color: #F39C12; font-weight: bold;">technology 💻</span> <br> I love to share my projects with the world 🌍✨.
+</h2>
 
 ###
 
