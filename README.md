@@ -49,8 +49,8 @@ OS        : Linux Mint, Windows
 Languages : Python, DuckyScript
 Editor    : Visual Studio Code
 
+```
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Lotverp/Lotverp/output/snake.svg" alt="Snake animation" />
-
-</br>
