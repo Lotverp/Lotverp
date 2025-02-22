@@ -1,4 +1,4 @@
-## Hi 👋!
+## Hi 👋
 ### My name is **Gabriel** 🚀.
 I'm **Italian** 🇮🇹 but I live in **Switzerland** 🇨🇭. <br>
 I'm passionate about **technology**💻
