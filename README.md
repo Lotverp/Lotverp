@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lotverp and I'm a gek, from Italy</h2>
+<h2 align="left">Hi 👋! My name is Gabriel and I'm a geek, from Italy, Swizerland</h2>
 
 ###
 
