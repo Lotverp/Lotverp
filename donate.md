@@ -1,4 +1,4 @@
-## ☕ Support My Work
+# ☕ Support My Work
 If you like my projects and want to support me, you can donate using one of the options below. Every donation is greatly appreciated! 🙌
 
 **All donations will be exclusively reinvested in other open-source projects.** 💡
