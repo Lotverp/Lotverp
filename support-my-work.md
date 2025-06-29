@@ -33,7 +33,3 @@ bitcoincash:qzexamplebchwalletaddress0987654321example
 ```
 
 ---
-
-### ❤️ Thank You!
-**Your support means a lot and helps me continue creating awesome projects!** 🚀  
-Every contribution helps build more open-source innovations! 💻✨
