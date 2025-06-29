@@ -3,7 +3,7 @@
 ### ₿ Bitcoin (BTC)
 **Wallet Address:**  
 ```
-bc1qexamplebtcwalletaddress1234567890example
+bc1qq7u0egknravjdrfgcegn4kdmrrxzq7uayhcpxc
 ```
 
 ---
@@ -11,7 +11,7 @@ bc1qexamplebtcwalletaddress1234567890example
 ### ₿ Bitcoin Cash (BCH)
 **Wallet Address:**  
 ```
-bitcoincash:qzexamplebchwalletaddress0987654321example
+bitcoincash:qpc8hvrthc63xc4r8em0kquc2ndfv7glkczlzxvkfp
 ```
 
 ---
@@ -19,7 +19,7 @@ bitcoincash:qzexamplebchwalletaddress0987654321example
 ### 🪙 Wirex Token (WXT) – ERC20
 **Wallet Address (Ethereum Network):**  
 ```
-0xexamplewxtwalletaddressabcdef1234567890
+0x4929cDf57B646c66e9AaEC2Fd06e974cEb18eb3f
 ```
 
 ---
@@ -27,7 +27,7 @@ bitcoincash:qzexamplebchwalletaddress0987654321example
 ### 💵 Tether (USDT) – ERC20
 **Wallet Address (Ethereum Network):**  
 ```
-0xexampleusdtwalletaddressabcdef1234567890
+0x4929cDf57B646c66e9AaEC2Fd06e974cEb18eb3f
 ```
 
 ---
