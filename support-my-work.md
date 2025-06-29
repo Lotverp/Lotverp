@@ -1,7 +1,5 @@
 ## 🔐 Crypto Donations
 
-Feel free to support me with crypto. All major coins accepted below 👇
-
 ### ₿ Bitcoin (BTC)
 **Wallet Address:**  
 ```
