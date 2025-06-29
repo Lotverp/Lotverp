@@ -4,7 +4,6 @@
 
 ## **All donations will be exclusively reinvested in other open-source projects.** 💡
 
-
 ### 💳 Donation Methods
 
 <div align="center" style="margin-bottom: 20px;">
@@ -21,14 +20,8 @@
   
   <br><br>
   
-  <a href="ciao.com" target="_blank" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/Donate%20-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" height="50" alt="Donate via Bitcoin" />
-  </a>
-  
-  <br><br>
-  
-  <a href="ciaone.com" target="_blank" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/Donate%20-Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=bitcoincash&logoColor=white" height="50" alt="Donate via Bitcoin Cash" />
+  <a href="https://yourcryptolink.com" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Donate%20-Crypto-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" height="50" alt="Donate via Crypto" />
   </a>
   
 </div>
