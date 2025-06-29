@@ -20,7 +20,7 @@
   
   <br><br>
   
-  <a href="[https://yourcryptolink.com](https://github.com/Lotverp/Lotverp/blob/main/crypto.md)" target="_blank" style="margin: 10px;">
+  <a href="https://github.com/Lotverp/Lotverp/blob/main/crypto.md" target="_blank" style="margin: 10px;">
     <img src="https://img.shields.io/badge/Donate%20-Crypto-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" height="50" alt="Donate via Crypto" />
   </a>
   
