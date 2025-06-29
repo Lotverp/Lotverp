@@ -17,7 +17,7 @@ bitcoincash:qpc8hvrthc63xc4r8em0kquc2ndfv7glkczlzxvkfp
 ---
 
 ### 🪙 Wirex Token (WXT) – ERC20
-**Wallet Address (Ethereum Network):**  
+**Wallet Address:**  
 ```
 0x4929cDf57B646c66e9AaEC2Fd06e974cEb18eb3f
 ```
@@ -25,7 +25,7 @@ bitcoincash:qpc8hvrthc63xc4r8em0kquc2ndfv7glkczlzxvkfp
 ---
 
 ### 💵 Tether (USDT) – ERC20
-**Wallet Address (Ethereum Network):**  
+**Wallet Address:**  
 ```
 0x4929cDf57B646c66e9AaEC2Fd06e974cEb18eb3f
 ```
