@@ -38,7 +38,7 @@ I'm passionate about **technology**💻
 
 ```lua
 OS        : Linux Mint, Windows, Android
-Languages : Python, DuckyScript
+Languages : Python, DuckyScript, TypeScript
 Editor    : Visual Studio Code
 ```
 
