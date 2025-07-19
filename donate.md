@@ -8,7 +8,7 @@
 
 <div align="center" style="margin-bottom: 20px;">
   
-  <a href="https://paypal.me/GabrielPolverini?country.x=IT&locale.x=it_IT" target="_blank" style="margin: 10px;">
+  <a href="https://www.paypal.com/paypalme/Lotverp" target="_blank" style="margin: 10px;">
     <img src="https://img.shields.io/badge/Donate%20-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white" height="50" alt="Donate via PayPal" />
   </a>
   
