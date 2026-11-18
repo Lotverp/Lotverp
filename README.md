@@ -1,63 +1,57 @@
-<h1 align="center">Hi 👋, I's Gabriel</h1>
-<h3 align="center">⚡ Electrician by trade, Hacker & Developer by passion 🚀</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lotverp&style=flat-square&color=bd93f9" alt="Profile Views" />
-  <a href="https://github.com/Lotverp?tab=followers"><img src="https://img.shields.io/github/followers/Lotverp?style=flat-square&color=50fa7b&label=Followers" alt="Followers" /></a>
-  <a href="https://github.com/Lotverp?tab=repositories"><img src="https://img.shields.io/github/repos/Lotverp?style=flat-square&color=ff79c6&label=Repositories" alt="Repos" /></a>
-  <img src="https://img.shields.io/github/commits-since/Lotverp/Lotverp/latest?style=flat-square&color=8be9fd&label=Updates" alt="Commits" />
-</p>
+## Hi 👋
+### My name is **Gabriel** 🚀.
+I'm **Italian** 🇮🇹 but I live in **Switzerland** 🇨🇭. <br>
+I'm passionate about **technology**💻
+<br>I love to share my projects with the world 🌍✨.
 
 ---
-
-### 💻 About Me
-
-* 🇮🇹 I'm **Italian**, currently living and working in **Switzerland** 🇨🇭.
-* 🛠️ Professionally working as an **electrician**, with a deep-rooted passion for low-level systems, hardware tinkering, and automation.
-* 🐧 Dedicated **Linux** enthusiast (Debian/Ubuntu/Kubuntu workflows in the terminal).
-* 🌍 I love building tools, automating workflows, and sharing open-source projects with the world.
-
----
-
-### 🐍 Contribution Snake (GitHub Activity Eater)
-> *Il famoso serpente che "mangia" i tuoi contributi sulla griglia dei rilasci.*
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lotverp/Lotverp/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lotverp/Lotverp/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lotverp/Lotverp/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lotverp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lotverp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
 
-### 📊 GitHub Metrics & Most Used Languages
+### Technologies & Tools
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lotverp&theme=dracula" alt="GitHub Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lotverp&theme=dracula&utcOffset=1" alt="Productive Time Card" />
-</div>
-
----
-
-### 🛠️ Tech Stack & Environment
-
-<div align="center">
-
-| Categoria | Tecnologie & Tool |
-| :--- | :--- |
-| **Linguaggi** | `Python` &nbsp;•&nbsp; `JavaScript` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `HTML5` &nbsp;•&nbsp; `CSS3` |
-| **Sistemi & OS** | `Linux (Debian/Kubuntu)` &nbsp;•&nbsp; `Android` &nbsp;•&nbsp; `Windows` |
-| **Tool & Editor** | `VS Code` &nbsp;•&nbsp; `Git` &nbsp;•&nbsp; `Markdown` &nbsp;•&nbsp; `CLI Workflows` |
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="linux logo"  />  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="30" alt="windows logo"  />
 </div>
 
 ---
 
 ```lua
--- System Environment Spec
-OS        : Linux (Debian/Kubuntu), Android, Windows
-Languages : Python, JavaScript, TypeScript, DuckyScript
+OS        : Distro Debian based, Android, Windows
+Languages : Python, DuckyScript, TypeScript
 Editor    : Visual Studio Code
-Terminal  : Bash, Custom Aliases, CLI Workflows
+```
+
+![snake](https://github.com/user-attachments/assets/8398cdc4-ec41-4f11-925d-b30967674584)
+
+---
+
+<div align="center">
+  <a href="https://github.com/Lotverp/Lotverp/blob/main/donate.md" target="_blank">
+    <img src="https://img.shields.io/badge/Buy me a coffee-%23FFDD00?style=for-the-badge&logo=ko-fi&logoColor=black" height="40" alt="donate" />
+  </a>
+
+</div>
+
+
+<!-- Readme inspired by https://github.com/Kerlooo -->
